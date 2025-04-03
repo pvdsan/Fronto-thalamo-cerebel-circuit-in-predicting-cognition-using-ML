@@ -1,0 +1,440 @@
+2024-10-08 16:00:15,277 - INFO - Starting process for outer fold...
+2024-10-08 16:00:16,601 - INFO -   Inner Fold 1/5 with hyperparameters: {'lr': 1.2e-05}
+2024-10-08 16:00:19,152 - INFO - Epoch 1, Train Loss: 1.0234, Val Loss: 1.0333, Train R2: -0.0637, Val R2: -0.0458
+2024-10-08 16:00:19,159 - INFO - Best val R² improved from -inf to -0.0458
+2024-10-08 16:00:19,790 - INFO - Best val R² improved from -0.0458 to -0.0303
+2024-10-08 16:00:20,429 - INFO - Best val R² improved from -0.0303 to -0.0199
+2024-10-08 16:00:21,064 - INFO - Best val R² improved from -0.0199 to -0.0117
+2024-10-08 16:00:21,714 - INFO - Best val R² improved from -0.0117 to -0.0059
+2024-10-08 16:00:22,348 - INFO - Best val R² improved from -0.0059 to -0.0015
+2024-10-08 16:00:22,991 - INFO - Best val R² improved from -0.0015 to 0.0017
+2024-10-08 16:00:23,631 - INFO - Best val R² improved from 0.0017 to 0.0045
+2024-10-08 16:00:24,266 - INFO - Best val R² improved from 0.0045 to 0.0065
+2024-10-08 16:00:24,903 - INFO - Best val R² improved from 0.0065 to 0.0083
+2024-10-08 16:00:25,546 - INFO - Epoch 11, Train Loss: 0.9607, Val Loss: 0.9773, Train R2: 0.0108, Val R2: 0.0098
+2024-10-08 16:00:25,548 - INFO - Best val R² improved from 0.0083 to 0.0098
+2024-10-08 16:00:26,199 - INFO - Best val R² improved from 0.0098 to 0.0112
+2024-10-08 16:00:26,852 - INFO - Best val R² improved from 0.0112 to 0.0125
+2024-10-08 16:00:27,501 - INFO - Best val R² improved from 0.0125 to 0.0135
+2024-10-08 16:00:28,147 - INFO - Best val R² improved from 0.0135 to 0.0145
+2024-10-08 16:00:28,813 - INFO - Best val R² improved from 0.0145 to 0.0154
+2024-10-08 16:00:29,482 - INFO - Best val R² improved from 0.0154 to 0.0164
+2024-10-08 16:00:30,213 - INFO - Best val R² improved from 0.0164 to 0.0173
+2024-10-08 16:00:30,996 - INFO - Best val R² improved from 0.0173 to 0.0180
+2024-10-08 16:00:31,792 - INFO - Best val R² improved from 0.0180 to 0.0186
+2024-10-08 16:00:32,689 - INFO - Epoch 21, Train Loss: 0.9468, Val Loss: 0.9675, Train R2: 0.0219, Val R2: 0.0193
+2024-10-08 16:00:32,690 - INFO - Best val R² improved from 0.0186 to 0.0193
+2024-10-08 16:00:33,296 - INFO - Best val R² improved from 0.0193 to 0.0201
+2024-10-08 16:00:33,807 - INFO - Best val R² improved from 0.0201 to 0.0208
+2024-10-08 16:00:34,537 - INFO - Best val R² improved from 0.0208 to 0.0214
+2024-10-08 16:00:35,338 - INFO - Best val R² improved from 0.0214 to 0.0220
+2024-10-08 16:00:36,146 - INFO - Best val R² improved from 0.0220 to 0.0227
+2024-10-08 16:00:36,710 - INFO - Best val R² improved from 0.0227 to 0.0233
+2024-10-08 16:00:37,290 - INFO - Best val R² improved from 0.0233 to 0.0239
+2024-10-08 16:00:37,860 - INFO - Best val R² improved from 0.0239 to 0.0246
+2024-10-08 16:00:38,452 - INFO - Best val R² improved from 0.0246 to 0.0250
+2024-10-08 16:00:39,015 - INFO - Epoch 31, Train Loss: 0.9301, Val Loss: 0.9609, Train R2: 0.0334, Val R2: 0.0255
+2024-10-08 16:00:39,015 - INFO - Best val R² improved from 0.0250 to 0.0255
+2024-10-08 16:00:39,596 - INFO - Best val R² improved from 0.0255 to 0.0260
+2024-10-08 16:00:40,158 - INFO - Best val R² improved from 0.0260 to 0.0266
+2024-10-08 16:00:40,746 - INFO - Best val R² improved from 0.0266 to 0.0271
+2024-10-08 16:00:41,288 - INFO - Best val R² improved from 0.0271 to 0.0275
+2024-10-08 16:00:41,814 - INFO - Best val R² improved from 0.0275 to 0.0280
+2024-10-08 16:00:42,360 - INFO - Best val R² improved from 0.0280 to 0.0285
+2024-10-08 16:00:42,929 - INFO - Best val R² improved from 0.0285 to 0.0290
+2024-10-08 16:00:43,479 - INFO - Best val R² improved from 0.0290 to 0.0296
+2024-10-08 16:00:44,013 - INFO - Best val R² improved from 0.0296 to 0.0300
+2024-10-08 16:00:44,596 - INFO - Epoch 41, Train Loss: 0.9249, Val Loss: 0.9554, Train R2: 0.0431, Val R2: 0.0305
+2024-10-08 16:00:44,596 - INFO - Best val R² improved from 0.0300 to 0.0305
+2024-10-08 16:00:45,126 - INFO - Best val R² improved from 0.0305 to 0.0310
+2024-10-08 16:00:45,523 - INFO - Best val R² improved from 0.0310 to 0.0315
+2024-10-08 16:00:45,879 - INFO - Best val R² improved from 0.0315 to 0.0319
+2024-10-08 16:00:46,254 - INFO - Best val R² improved from 0.0319 to 0.0323
+2024-10-08 16:00:46,632 - INFO - Best val R² improved from 0.0323 to 0.0327
+2024-10-08 16:00:47,212 - INFO - Best val R² improved from 0.0327 to 0.0332
+2024-10-08 16:00:47,663 - INFO - Best val R² improved from 0.0332 to 0.0336
+2024-10-08 16:00:48,084 - INFO - Best val R² improved from 0.0336 to 0.0340
+2024-10-08 16:00:48,476 - INFO - Best val R² improved from 0.0340 to 0.0343
+2024-10-08 16:00:48,872 - INFO - Epoch 51, Train Loss: 0.9124, Val Loss: 0.9508, Train R2: 0.0540, Val R2: 0.0347
+2024-10-08 16:00:48,872 - INFO - Best val R² improved from 0.0343 to 0.0347
+2024-10-08 16:00:49,287 - INFO - Best val R² improved from 0.0347 to 0.0351
+2024-10-08 16:00:49,719 - INFO - Best val R² improved from 0.0351 to 0.0355
+2024-10-08 16:00:50,127 - INFO - Best val R² improved from 0.0355 to 0.0358
+2024-10-08 16:00:50,563 - INFO - Best val R² improved from 0.0358 to 0.0363
+2024-10-08 16:00:51,010 - INFO - Best val R² improved from 0.0363 to 0.0367
+2024-10-08 16:00:51,588 - INFO - Best val R² improved from 0.0367 to 0.0369
+2024-10-08 16:00:52,172 - INFO - Best val R² improved from 0.0369 to 0.0374
+2024-10-08 16:00:52,771 - INFO - Best val R² improved from 0.0374 to 0.0378
+2024-10-08 16:00:53,371 - INFO - Best val R² improved from 0.0378 to 0.0381
+2024-10-08 16:00:53,977 - INFO - Epoch 61, Train Loss: 0.8997, Val Loss: 0.9468, Train R2: 0.0666, Val R2: 0.0384
+2024-10-08 16:00:53,977 - INFO - Best val R² improved from 0.0381 to 0.0384
+2024-10-08 16:00:54,625 - INFO - Best val R² improved from 0.0384 to 0.0388
+2024-10-08 16:00:55,188 - INFO - Best val R² improved from 0.0388 to 0.0391
+2024-10-08 16:00:55,766 - INFO - Best val R² improved from 0.0391 to 0.0395
+2024-10-08 16:00:56,327 - INFO - Best val R² improved from 0.0395 to 0.0398
+2024-10-08 16:00:56,875 - INFO - Best val R² improved from 0.0398 to 0.0399
+2024-10-08 16:00:57,412 - INFO - Best val R² improved from 0.0399 to 0.0402
+2024-10-08 16:00:57,971 - INFO - Best val R² improved from 0.0402 to 0.0404
+2024-10-08 16:00:58,512 - INFO - Best val R² improved from 0.0404 to 0.0407
+2024-10-08 16:00:59,149 - INFO - Best val R² improved from 0.0407 to 0.0410
+2024-10-08 16:00:59,770 - INFO - Epoch 71, Train Loss: 0.9009, Val Loss: 0.9433, Train R2: 0.0716, Val R2: 0.0413
+2024-10-08 16:00:59,770 - INFO - Best val R² improved from 0.0410 to 0.0413
+2024-10-08 16:01:00,362 - INFO - Best val R² improved from 0.0413 to 0.0416
+2024-10-08 16:01:00,849 - INFO - Best val R² improved from 0.0416 to 0.0418
+2024-10-08 16:01:01,239 - INFO - Best val R² improved from 0.0418 to 0.0421
+2024-10-08 16:01:01,836 - INFO - Best val R² improved from 0.0421 to 0.0423
+2024-10-08 16:01:02,600 - INFO - Best val R² improved from 0.0423 to 0.0425
+2024-10-08 16:01:03,255 - INFO - Best val R² improved from 0.0425 to 0.0428
+2024-10-08 16:01:03,800 - INFO - Best val R² improved from 0.0428 to 0.0431
+2024-10-08 16:01:04,328 - INFO - Best val R² improved from 0.0431 to 0.0433
+2024-10-08 16:01:04,959 - INFO - Best val R² improved from 0.0433 to 0.0434
+2024-10-08 16:01:05,640 - INFO - Epoch 81, Train Loss: 0.8827, Val Loss: 0.9405, Train R2: 0.0830, Val R2: 0.0437
+2024-10-08 16:01:05,640 - INFO - Best val R² improved from 0.0434 to 0.0437
+2024-10-08 16:01:06,289 - INFO - Best val R² improved from 0.0437 to 0.0438
+2024-10-08 16:01:06,944 - INFO - Best val R² improved from 0.0438 to 0.0441
+2024-10-08 16:01:07,591 - INFO - Best val R² improved from 0.0441 to 0.0442
+2024-10-08 16:01:08,264 - INFO - Best val R² improved from 0.0442 to 0.0444
+2024-10-08 16:01:09,010 - INFO - Best val R² improved from 0.0444 to 0.0445
+2024-10-08 16:01:09,530 - INFO - Best val R² improved from 0.0445 to 0.0448
+2024-10-08 16:01:10,008 - INFO - Best val R² improved from 0.0448 to 0.0449
+2024-10-08 16:01:10,475 - INFO - Best val R² improved from 0.0449 to 0.0450
+2024-10-08 16:01:10,938 - INFO - Best val R² improved from 0.0450 to 0.0452
+2024-10-08 16:01:11,565 - INFO - Epoch 91, Train Loss: 0.8750, Val Loss: 0.9385, Train R2: 0.0916, Val R2: 0.0452
+2024-10-08 16:01:12,073 - INFO - Best val R² improved from 0.0452 to 0.0453
+2024-10-08 16:01:12,540 - INFO - Best val R² improved from 0.0453 to 0.0456
+2024-10-08 16:01:13,005 - INFO - Best val R² improved from 0.0456 to 0.0456
+2024-10-08 16:01:13,471 - INFO - Best val R² improved from 0.0456 to 0.0457
+2024-10-08 16:01:14,679 - INFO - Best val R² improved from 0.0457 to 0.0458
+2024-10-08 16:01:15,228 - INFO - Best val R² improved from 0.0458 to 0.0459
+2024-10-08 16:01:15,836 - INFO - Best val R² improved from 0.0459 to 0.0462
+2024-10-08 16:01:17,025 - INFO - Epoch 101, Train Loss: 0.8533, Val Loss: 0.9370, Train R2: 0.1135, Val R2: 0.0461
+2024-10-08 16:01:20,006 - INFO - Best val R² improved from 0.0462 to 0.0462
+2024-10-08 16:01:22,018 - INFO - Best val R² improved from 0.0462 to 0.0463
+2024-10-08 16:01:23,152 - INFO - Epoch 111, Train Loss: 0.8513, Val Loss: 0.9363, Train R2: 0.1182, Val R2: 0.0463
+2024-10-08 16:01:29,218 - INFO - Epoch 121, Train Loss: 0.8423, Val Loss: 0.9366, Train R2: 0.1243, Val R2: 0.0458
+2024-10-08 16:01:35,575 - INFO - Epoch 131, Train Loss: 0.8361, Val Loss: 0.9366, Train R2: 0.1353, Val R2: 0.0454
+2024-10-08 16:01:37,383 - INFO - Early stopping at epoch 134 after 25 epochs with no improvement in val R².
+2024-10-08 16:01:37,383 - INFO - Inner Fold 1 Results:
+2024-10-08 16:01:37,383 - INFO - Hyperparameters: {'lr': 1.2e-05}
+2024-10-08 16:01:37,383 - INFO - Best Epoch: 109
+2024-10-08 16:01:37,383 - INFO - Train R²: 0.1206, Train Corr: 0.3663
+2024-10-08 16:01:37,383 - INFO - Val R²: 0.0463, Val Corr: 0.2153
+2024-10-08 16:01:37,383 - INFO - --------------------------------------------------------
+2024-10-08 16:01:37,383 - INFO -   Inner Fold 2/5 with hyperparameters: {'lr': 1.4e-05}
+2024-10-08 16:01:38,027 - INFO - Epoch 1, Train Loss: 0.9795, Val Loss: 0.9541, Train R2: -0.0021, Val R2: 0.0090
+2024-10-08 16:01:38,027 - INFO - Best val R² improved from -inf to 0.0090
+2024-10-08 16:01:38,668 - INFO - Best val R² improved from 0.0090 to 0.0133
+2024-10-08 16:01:39,089 - INFO - Best val R² improved from 0.0133 to 0.0163
+2024-10-08 16:01:39,463 - INFO - Best val R² improved from 0.0163 to 0.0190
+2024-10-08 16:01:39,874 - INFO - Best val R² improved from 0.0190 to 0.0205
+2024-10-08 16:01:40,467 - INFO - Best val R² improved from 0.0205 to 0.0221
+2024-10-08 16:01:41,075 - INFO - Best val R² improved from 0.0221 to 0.0230
+2024-10-08 16:01:41,664 - INFO - Best val R² improved from 0.0230 to 0.0232
+2024-10-08 16:01:42,270 - INFO - Best val R² improved from 0.0232 to 0.0239
+2024-10-08 16:01:42,865 - INFO - Best val R² improved from 0.0239 to 0.0244
+2024-10-08 16:01:43,277 - INFO - Epoch 11, Train Loss: 0.9551, Val Loss: 0.9381, Train R2: 0.0192, Val R2: 0.0250
+2024-10-08 16:01:43,277 - INFO - Best val R² improved from 0.0244 to 0.0250
+2024-10-08 16:01:43,624 - INFO - Best val R² improved from 0.0250 to 0.0257
+2024-10-08 16:01:43,992 - INFO - Best val R² improved from 0.0257 to 0.0262
+2024-10-08 16:01:44,678 - INFO - Best val R² improved from 0.0262 to 0.0263
+2024-10-08 16:01:45,041 - INFO - Best val R² improved from 0.0263 to 0.0265
+2024-10-08 16:01:45,379 - INFO - Best val R² improved from 0.0265 to 0.0270
+2024-10-08 16:01:45,693 - INFO - Best val R² improved from 0.0270 to 0.0271
+2024-10-08 16:01:46,217 - INFO - Best val R² improved from 0.0271 to 0.0275
+2024-10-08 16:01:46,722 - INFO - Best val R² improved from 0.0275 to 0.0276
+2024-10-08 16:01:47,329 - INFO - Epoch 21, Train Loss: 0.9402, Val Loss: 0.9352, Train R2: 0.0303, Val R2: 0.0274
+2024-10-08 16:01:48,434 - INFO - Best val R² improved from 0.0276 to 0.0280
+2024-10-08 16:01:48,980 - INFO - Best val R² improved from 0.0280 to 0.0281
+2024-10-08 16:01:49,487 - INFO - Best val R² improved from 0.0281 to 0.0283
+2024-10-08 16:01:50,101 - INFO - Best val R² improved from 0.0283 to 0.0285
+2024-10-08 16:01:50,683 - INFO - Best val R² improved from 0.0285 to 0.0287
+2024-10-08 16:01:51,268 - INFO - Best val R² improved from 0.0287 to 0.0292
+2024-10-08 16:01:52,015 - INFO - Best val R² improved from 0.0292 to 0.0294
+2024-10-08 16:01:52,655 - INFO - Best val R² improved from 0.0294 to 0.0294
+2024-10-08 16:01:53,254 - INFO - Epoch 31, Train Loss: 0.9375, Val Loss: 0.9326, Train R2: 0.0420, Val R2: 0.0295
+2024-10-08 16:01:53,255 - INFO - Best val R² improved from 0.0294 to 0.0295
+2024-10-08 16:01:54,479 - INFO - Best val R² improved from 0.0295 to 0.0297
+2024-10-08 16:01:54,980 - INFO - Best val R² improved from 0.0297 to 0.0298
+2024-10-08 16:01:55,882 - INFO - Best val R² improved from 0.0298 to 0.0305
+2024-10-08 16:01:57,570 - INFO - Best val R² improved from 0.0305 to 0.0311
+2024-10-08 16:01:58,402 - INFO - Epoch 41, Train Loss: 0.9166, Val Loss: 0.9310, Train R2: 0.0513, Val R2: 0.0308
+2024-10-08 16:02:02,090 - INFO - Epoch 51, Train Loss: 0.9082, Val Loss: 0.9314, Train R2: 0.0634, Val R2: 0.0300
+2024-10-08 16:02:05,998 - INFO - Epoch 61, Train Loss: 0.8999, Val Loss: 0.9308, Train R2: 0.0725, Val R2: 0.0304
+2024-10-08 16:02:08,104 - INFO - Early stopping at epoch 64 after 25 epochs with no improvement in val R².
+2024-10-08 16:02:08,104 - INFO - Inner Fold 2 Results:
+2024-10-08 16:02:08,104 - INFO - Hyperparameters: {'lr': 1.4e-05}
+2024-10-08 16:02:08,104 - INFO - Best Epoch: 39
+2024-10-08 16:02:08,104 - INFO - Train R²: 0.0516, Train Corr: 0.2380
+2024-10-08 16:02:08,104 - INFO - Val R²: 0.0311, Val Corr: 0.1777
+2024-10-08 16:02:08,104 - INFO - --------------------------------------------------------
+2024-10-08 16:02:08,104 - INFO -   Inner Fold 3/5 with hyperparameters: {'lr': 1.6e-05}
+2024-10-08 16:02:08,854 - INFO - Epoch 1, Train Loss: 0.9874, Val Loss: 1.1029, Train R2: -0.0483, Val R2: -0.0049
+2024-10-08 16:02:08,854 - INFO - Best val R² improved from -inf to -0.0049
+2024-10-08 16:02:09,593 - INFO - Best val R² improved from -0.0049 to 0.0026
+2024-10-08 16:02:10,335 - INFO - Best val R² improved from 0.0026 to 0.0076
+2024-10-08 16:02:10,804 - INFO - Best val R² improved from 0.0076 to 0.0108
+2024-10-08 16:02:11,226 - INFO - Best val R² improved from 0.0108 to 0.0133
+2024-10-08 16:02:11,886 - INFO - Best val R² improved from 0.0133 to 0.0148
+2024-10-08 16:02:12,483 - INFO - Best val R² improved from 0.0148 to 0.0159
+2024-10-08 16:02:13,302 - INFO - Best val R² improved from 0.0159 to 0.0166
+2024-10-08 16:02:14,120 - INFO - Best val R² improved from 0.0166 to 0.0167
+2024-10-08 16:02:14,712 - INFO - Best val R² improved from 0.0167 to 0.0169
+2024-10-08 16:02:15,284 - INFO - Epoch 11, Train Loss: 0.9264, Val Loss: 1.0743, Train R2: 0.0137, Val R2: 0.0172
+2024-10-08 16:02:15,291 - INFO - Best val R² improved from 0.0169 to 0.0172
+2024-10-08 16:02:15,799 - INFO - Best val R² improved from 0.0172 to 0.0174
+2024-10-08 16:02:16,760 - INFO - Best val R² improved from 0.0174 to 0.0175
+2024-10-08 16:02:18,461 - INFO - Best val R² improved from 0.0175 to 0.0176
+2024-10-08 16:02:19,040 - INFO - Best val R² improved from 0.0176 to 0.0178
+2024-10-08 16:02:19,815 - INFO - Best val R² improved from 0.0178 to 0.0180
+2024-10-08 16:02:21,041 - INFO - Epoch 21, Train Loss: 0.9094, Val Loss: 1.0727, Train R2: 0.0338, Val R2: 0.0181
+2024-10-08 16:02:21,041 - INFO - Best val R² improved from 0.0180 to 0.0181
+2024-10-08 16:02:22,234 - INFO - Best val R² improved from 0.0181 to 0.0182
+2024-10-08 16:02:22,862 - INFO - Best val R² improved from 0.0182 to 0.0186
+2024-10-08 16:02:24,334 - INFO - Best val R² improved from 0.0186 to 0.0188
+2024-10-08 16:02:25,688 - INFO - Best val R² improved from 0.0188 to 0.0189
+2024-10-08 16:02:26,098 - INFO - Best val R² improved from 0.0189 to 0.0192
+2024-10-08 16:02:26,509 - INFO - Best val R² improved from 0.0192 to 0.0194
+2024-10-08 16:02:27,220 - INFO - Epoch 31, Train Loss: 0.8996, Val Loss: 1.0709, Train R2: 0.0420, Val R2: 0.0197
+2024-10-08 16:02:27,220 - INFO - Best val R² improved from 0.0194 to 0.0197
+2024-10-08 16:02:27,791 - INFO - Best val R² improved from 0.0197 to 0.0198
+2024-10-08 16:02:28,359 - INFO - Best val R² improved from 0.0198 to 0.0202
+2024-10-08 16:02:29,016 - INFO - Best val R² improved from 0.0202 to 0.0205
+2024-10-08 16:02:29,570 - INFO - Best val R² improved from 0.0205 to 0.0208
+2024-10-08 16:02:30,310 - INFO - Best val R² improved from 0.0208 to 0.0211
+2024-10-08 16:02:31,091 - INFO - Best val R² improved from 0.0211 to 0.0213
+2024-10-08 16:02:31,480 - INFO - Best val R² improved from 0.0213 to 0.0216
+2024-10-08 16:02:31,966 - INFO - Best val R² improved from 0.0216 to 0.0217
+2024-10-08 16:02:32,440 - INFO - Epoch 41, Train Loss: 0.8926, Val Loss: 1.0682, Train R2: 0.0527, Val R2: 0.0220
+2024-10-08 16:02:32,440 - INFO - Best val R² improved from 0.0217 to 0.0220
+2024-10-08 16:02:32,886 - INFO - Best val R² improved from 0.0220 to 0.0220
+2024-10-08 16:02:33,358 - INFO - Best val R² improved from 0.0220 to 0.0225
+2024-10-08 16:02:33,836 - INFO - Best val R² improved from 0.0225 to 0.0227
+2024-10-08 16:02:35,050 - INFO - Best val R² improved from 0.0227 to 0.0231
+2024-10-08 16:02:36,099 - INFO - Best val R² improved from 0.0231 to 0.0234
+2024-10-08 16:02:36,382 - INFO - Best val R² improved from 0.0234 to 0.0235
+2024-10-08 16:02:36,785 - INFO - Best val R² improved from 0.0235 to 0.0236
+2024-10-08 16:02:37,102 - INFO - Epoch 51, Train Loss: 0.8801, Val Loss: 1.0656, Train R2: 0.0619, Val R2: 0.0240
+2024-10-08 16:02:37,102 - INFO - Best val R² improved from 0.0236 to 0.0240
+2024-10-08 16:02:37,389 - INFO - Best val R² improved from 0.0240 to 0.0241
+2024-10-08 16:02:37,720 - INFO - Best val R² improved from 0.0241 to 0.0243
+2024-10-08 16:02:38,319 - INFO - Best val R² improved from 0.0243 to 0.0244
+2024-10-08 16:02:38,867 - INFO - Best val R² improved from 0.0244 to 0.0251
+2024-10-08 16:02:39,761 - INFO - Best val R² improved from 0.0251 to 0.0254
+2024-10-08 16:02:40,152 - INFO - Best val R² improved from 0.0254 to 0.0259
+2024-10-08 16:02:40,598 - INFO - Best val R² improved from 0.0259 to 0.0260
+2024-10-08 16:02:41,180 - INFO - Best val R² improved from 0.0260 to 0.0265
+2024-10-08 16:02:41,853 - INFO - Epoch 61, Train Loss: 0.8717, Val Loss: 1.0626, Train R2: 0.0756, Val R2: 0.0265
+2024-10-08 16:02:42,901 - INFO - Best val R² improved from 0.0265 to 0.0269
+2024-10-08 16:02:43,394 - INFO - Best val R² improved from 0.0269 to 0.0271
+2024-10-08 16:02:45,100 - INFO - Best val R² improved from 0.0271 to 0.0272
+2024-10-08 16:02:45,574 - INFO - Best val R² improved from 0.0272 to 0.0273
+2024-10-08 16:02:45,836 - INFO - Best val R² improved from 0.0273 to 0.0276
+2024-10-08 16:02:46,263 - INFO - Best val R² improved from 0.0276 to 0.0278
+2024-10-08 16:02:46,709 - INFO - Epoch 71, Train Loss: 0.8664, Val Loss: 1.0604, Train R2: 0.0854, Val R2: 0.0278
+2024-10-08 16:02:46,709 - INFO - Best val R² improved from 0.0278 to 0.0278
+2024-10-08 16:02:46,986 - INFO - Best val R² improved from 0.0278 to 0.0281
+2024-10-08 16:02:47,345 - INFO - Best val R² improved from 0.0281 to 0.0285
+2024-10-08 16:02:48,449 - INFO - Best val R² improved from 0.0285 to 0.0288
+2024-10-08 16:02:48,853 - INFO - Best val R² improved from 0.0288 to 0.0290
+2024-10-08 16:02:49,724 - INFO - Best val R² improved from 0.0290 to 0.0294
+2024-10-08 16:02:50,825 - INFO - Best val R² improved from 0.0294 to 0.0296
+2024-10-08 16:02:51,393 - INFO - Epoch 81, Train Loss: 0.8487, Val Loss: 1.0584, Train R2: 0.0994, Val R2: 0.0292
+2024-10-08 16:02:53,996 - INFO - Best val R² improved from 0.0296 to 0.0297
+2024-10-08 16:02:54,592 - INFO - Best val R² improved from 0.0297 to 0.0303
+2024-10-08 16:02:57,885 - INFO - Epoch 91, Train Loss: 0.8308, Val Loss: 1.0569, Train R2: 0.1167, Val R2: 0.0300
+2024-10-08 16:02:59,595 - INFO - Best val R² improved from 0.0303 to 0.0305
+2024-10-08 16:03:00,099 - INFO - Best val R² improved from 0.0305 to 0.0306
+2024-10-08 16:03:01,522 - INFO - Best val R² improved from 0.0306 to 0.0307
+2024-10-08 16:03:01,981 - INFO - Best val R² improved from 0.0307 to 0.0308
+2024-10-08 16:03:03,198 - INFO - Epoch 101, Train Loss: 0.8166, Val Loss: 1.0557, Train R2: 0.1302, Val R2: 0.0306
+2024-10-08 16:03:08,496 - INFO - Epoch 111, Train Loss: 0.8073, Val Loss: 1.0568, Train R2: 0.1440, Val R2: 0.0290
+2024-10-08 16:03:14,429 - INFO - Epoch 121, Train Loss: 0.7969, Val Loss: 1.0573, Train R2: 0.1518, Val R2: 0.0282
+2024-10-08 16:03:16,434 - INFO - Early stopping at epoch 124 after 25 epochs with no improvement in val R².
+2024-10-08 16:03:16,434 - INFO - Inner Fold 3 Results:
+2024-10-08 16:03:16,435 - INFO - Hyperparameters: {'lr': 1.6e-05}
+2024-10-08 16:03:16,435 - INFO - Best Epoch: 99
+2024-10-08 16:03:16,435 - INFO - Train R²: 0.1302, Train Corr: 0.3809
+2024-10-08 16:03:16,435 - INFO - Val R²: 0.0308, Val Corr: 0.2008
+2024-10-08 16:03:16,435 - INFO - --------------------------------------------------------
+2024-10-08 16:03:16,435 - INFO -   Inner Fold 4/5 with hyperparameters: {'lr': 1.8e-05}
+2024-10-08 16:03:17,126 - INFO - Epoch 1, Train Loss: 1.0087, Val Loss: 0.8686, Train R2: -0.0082, Val R2: -0.0088
+2024-10-08 16:03:17,126 - INFO - Best val R² improved from -inf to -0.0088
+2024-10-08 16:03:17,621 - INFO - Best val R² improved from -0.0088 to -0.0026
+2024-10-08 16:03:18,110 - INFO - Best val R² improved from -0.0026 to 0.0011
+2024-10-08 16:03:18,419 - INFO - Best val R² improved from 0.0011 to 0.0040
+2024-10-08 16:03:18,838 - INFO - Best val R² improved from 0.0040 to 0.0064
+2024-10-08 16:03:19,307 - INFO - Best val R² improved from 0.0064 to 0.0072
+2024-10-08 16:03:19,761 - INFO - Best val R² improved from 0.0072 to 0.0088
+2024-10-08 16:03:20,994 - INFO - Best val R² improved from 0.0088 to 0.0100
+2024-10-08 16:03:21,463 - INFO - Best val R² improved from 0.0100 to 0.0116
+2024-10-08 16:03:21,871 - INFO - Epoch 11, Train Loss: 0.9835, Val Loss: 0.8503, Train R2: 0.0216, Val R2: 0.0120
+2024-10-08 16:03:21,871 - INFO - Best val R² improved from 0.0116 to 0.0120
+2024-10-08 16:03:22,568 - INFO - Best val R² improved from 0.0120 to 0.0128
+2024-10-08 16:03:23,191 - INFO - Best val R² improved from 0.0128 to 0.0134
+2024-10-08 16:03:23,810 - INFO - Best val R² improved from 0.0134 to 0.0140
+2024-10-08 16:03:24,365 - INFO - Best val R² improved from 0.0140 to 0.0151
+2024-10-08 16:03:24,946 - INFO - Best val R² improved from 0.0151 to 0.0157
+2024-10-08 16:03:25,516 - INFO - Best val R² improved from 0.0157 to 0.0159
+2024-10-08 16:03:26,082 - INFO - Best val R² improved from 0.0159 to 0.0168
+2024-10-08 16:03:26,713 - INFO - Best val R² improved from 0.0168 to 0.0174
+2024-10-08 16:03:27,388 - INFO - Best val R² improved from 0.0174 to 0.0174
+2024-10-08 16:03:28,094 - INFO - Epoch 21, Train Loss: 0.9670, Val Loss: 0.8454, Train R2: 0.0351, Val R2: 0.0177
+2024-10-08 16:03:28,094 - INFO - Best val R² improved from 0.0174 to 0.0177
+2024-10-08 16:03:28,875 - INFO - Best val R² improved from 0.0177 to 0.0181
+2024-10-08 16:03:29,612 - INFO - Best val R² improved from 0.0181 to 0.0188
+2024-10-08 16:03:30,418 - INFO - Best val R² improved from 0.0188 to 0.0192
+2024-10-08 16:03:31,107 - INFO - Best val R² improved from 0.0192 to 0.0193
+2024-10-08 16:03:31,648 - INFO - Best val R² improved from 0.0193 to 0.0195
+2024-10-08 16:03:32,207 - INFO - Best val R² improved from 0.0195 to 0.0197
+2024-10-08 16:03:32,650 - INFO - Best val R² improved from 0.0197 to 0.0203
+2024-10-08 16:03:34,298 - INFO - Epoch 31, Train Loss: 0.9448, Val Loss: 0.8425, Train R2: 0.0524, Val R2: 0.0208
+2024-10-08 16:03:34,298 - INFO - Best val R² improved from 0.0203 to 0.0208
+2024-10-08 16:03:34,829 - INFO - Best val R² improved from 0.0208 to 0.0212
+2024-10-08 16:03:35,550 - INFO - Best val R² improved from 0.0212 to 0.0217
+2024-10-08 16:03:36,110 - INFO - Best val R² improved from 0.0217 to 0.0224
+2024-10-08 16:03:40,022 - INFO - Epoch 41, Train Loss: 0.9351, Val Loss: 0.8399, Train R2: 0.0663, Val R2: 0.0230
+2024-10-08 16:03:40,022 - INFO - Best val R² improved from 0.0224 to 0.0230
+2024-10-08 16:03:40,451 - INFO - Best val R² improved from 0.0230 to 0.0232
+2024-10-08 16:03:42,594 - INFO - Best val R² improved from 0.0232 to 0.0232
+2024-10-08 16:03:45,784 - INFO - Epoch 51, Train Loss: 0.9185, Val Loss: 0.8394, Train R2: 0.0822, Val R2: 0.0229
+2024-10-08 16:03:47,980 - INFO - Best val R² improved from 0.0232 to 0.0233
+2024-10-08 16:03:48,672 - INFO - Best val R² improved from 0.0233 to 0.0236
+2024-10-08 16:03:51,453 - INFO - Epoch 61, Train Loss: 0.9073, Val Loss: 0.8410, Train R2: 0.0955, Val R2: 0.0201
+2024-10-08 16:03:57,504 - INFO - Epoch 71, Train Loss: 0.8909, Val Loss: 0.8412, Train R2: 0.1159, Val R2: 0.0194
+2024-10-08 16:04:03,078 - INFO - Epoch 81, Train Loss: 0.8810, Val Loss: 0.8417, Train R2: 0.1234, Val R2: 0.0186
+2024-10-08 16:04:03,078 - INFO - Early stopping at epoch 81 after 25 epochs with no improvement in val R².
+2024-10-08 16:04:03,078 - INFO - Inner Fold 4 Results:
+2024-10-08 16:04:03,078 - INFO - Hyperparameters: {'lr': 1.8e-05}
+2024-10-08 16:04:03,078 - INFO - Best Epoch: 56
+2024-10-08 16:04:03,078 - INFO - Train R²: 0.0926, Train Corr: 0.3226
+2024-10-08 16:04:03,078 - INFO - Val R²: 0.0236, Val Corr: 0.1767
+2024-10-08 16:04:03,078 - INFO - --------------------------------------------------------
+2024-10-08 16:04:03,079 - INFO -   Inner Fold 5/5 with hyperparameters: {'lr': 2e-05}
+2024-10-08 16:04:03,735 - INFO - Epoch 1, Train Loss: 0.9845, Val Loss: 0.9390, Train R2: -0.0025, Val R2: 0.0033
+2024-10-08 16:04:03,735 - INFO - Best val R² improved from -inf to 0.0033
+2024-10-08 16:04:04,302 - INFO - Best val R² improved from 0.0033 to 0.0056
+2024-10-08 16:04:04,801 - INFO - Best val R² improved from 0.0056 to 0.0060
+2024-10-08 16:04:06,651 - INFO - Best val R² improved from 0.0060 to 0.0066
+2024-10-08 16:04:07,352 - INFO - Best val R² improved from 0.0066 to 0.0067
+2024-10-08 16:04:08,703 - INFO - Best val R² improved from 0.0067 to 0.0071
+2024-10-08 16:04:09,329 - INFO - Best val R² improved from 0.0071 to 0.0079
+2024-10-08 16:04:09,893 - INFO - Epoch 11, Train Loss: 0.9505, Val Loss: 0.9353, Train R2: 0.0310, Val R2: 0.0081
+2024-10-08 16:04:09,893 - INFO - Best val R² improved from 0.0079 to 0.0081
+2024-10-08 16:04:10,461 - INFO - Best val R² improved from 0.0081 to 0.0089
+2024-10-08 16:04:11,000 - INFO - Best val R² improved from 0.0089 to 0.0093
+2024-10-08 16:04:11,685 - INFO - Best val R² improved from 0.0093 to 0.0102
+2024-10-08 16:04:12,265 - INFO - Best val R² improved from 0.0102 to 0.0106
+2024-10-08 16:04:12,816 - INFO - Best val R² improved from 0.0106 to 0.0111
+2024-10-08 16:04:13,538 - INFO - Best val R² improved from 0.0111 to 0.0128
+2024-10-08 16:04:15,710 - INFO - Best val R² improved from 0.0128 to 0.0135
+2024-10-08 16:04:16,404 - INFO - Epoch 21, Train Loss: 0.9334, Val Loss: 0.9291, Train R2: 0.0479, Val R2: 0.0143
+2024-10-08 16:04:16,404 - INFO - Best val R² improved from 0.0135 to 0.0143
+2024-10-08 16:04:17,681 - INFO - Best val R² improved from 0.0143 to 0.0146
+2024-10-08 16:04:18,407 - INFO - Best val R² improved from 0.0146 to 0.0148
+2024-10-08 16:04:19,129 - INFO - Best val R² improved from 0.0148 to 0.0158
+2024-10-08 16:04:21,065 - INFO - Best val R² improved from 0.0158 to 0.0163
+2024-10-08 16:04:21,868 - INFO - Best val R² improved from 0.0163 to 0.0168
+2024-10-08 16:04:23,512 - INFO - Epoch 31, Train Loss: 0.9196, Val Loss: 0.9265, Train R2: 0.0617, Val R2: 0.0170
+2024-10-08 16:04:23,512 - INFO - Best val R² improved from 0.0168 to 0.0170
+2024-10-08 16:04:24,906 - INFO - Best val R² improved from 0.0170 to 0.0171
+2024-10-08 16:04:25,404 - INFO - Best val R² improved from 0.0171 to 0.0173
+2024-10-08 16:04:26,968 - INFO - Best val R² improved from 0.0173 to 0.0177
+2024-10-08 16:04:28,909 - INFO - Epoch 41, Train Loss: 0.8904, Val Loss: 0.9265, Train R2: 0.0855, Val R2: 0.0169
+2024-10-08 16:04:29,592 - INFO - Best val R² improved from 0.0177 to 0.0178
+2024-10-08 16:04:30,256 - INFO - Best val R² improved from 0.0178 to 0.0182
+2024-10-08 16:04:32,169 - INFO - Best val R² improved from 0.0182 to 0.0185
+2024-10-08 16:04:34,627 - INFO - Epoch 51, Train Loss: 0.8837, Val Loss: 0.9255, Train R2: 0.1054, Val R2: 0.0179
+2024-10-08 16:04:40,928 - INFO - Epoch 61, Train Loss: 0.8603, Val Loss: 0.9277, Train R2: 0.1229, Val R2: 0.0157
+2024-10-08 16:04:45,546 - INFO - Epoch 71, Train Loss: 0.8598, Val Loss: 0.9287, Train R2: 0.1260, Val R2: 0.0147
+2024-10-08 16:04:45,546 - INFO - Early stopping at epoch 71 after 25 epochs with no improvement in val R².
+2024-10-08 16:04:45,546 - INFO - Inner Fold 5 Results:
+2024-10-08 16:04:45,546 - INFO - Hyperparameters: {'lr': 2e-05}
+2024-10-08 16:04:45,546 - INFO - Best Epoch: 46
+2024-10-08 16:04:45,546 - INFO - Train R²: 0.0927, Train Corr: 0.3199
+2024-10-08 16:04:45,546 - INFO - Val R²: 0.0185, Val Corr: 0.1527
+2024-10-08 16:04:45,546 - INFO - --------------------------------------------------------
+2024-10-08 16:04:45,546 - INFO - Aggregate Inner Fold Results for Outer Fold 1:
+2024-10-08 16:04:45,546 - INFO - Val R² Mean: 0.0301, Val R² Std: 0.0094
+2024-10-08 16:04:45,546 - INFO - Val Corr Mean: 0.1846, Val Corr Std: 0.0216
+2024-10-08 16:04:45,546 - INFO - Training with the best lr: 1.2e-05
+2024-10-08 16:04:46,231 - INFO - Epoch 1, Train Loss: 0.9834, Val Loss: 1.1115, Train R2: -0.0114, Val R2: -0.0032
+2024-10-08 16:04:46,231 - INFO - Best val R² improved from -inf to -0.0032
+2024-10-08 16:04:46,945 - INFO - Best val R² improved from -0.0032 to -0.0009
+2024-10-08 16:04:47,628 - INFO - Best val R² improved from -0.0009 to -0.0004
+2024-10-08 16:04:48,319 - INFO - Best val R² improved from -0.0004 to -0.0001
+2024-10-08 16:04:49,024 - INFO - Best val R² improved from -0.0001 to 0.0001
+2024-10-08 16:04:52,212 - INFO - Best val R² improved from 0.0001 to 0.0011
+2024-10-08 16:04:52,790 - INFO - Epoch 11, Train Loss: 0.9542, Val Loss: 1.1072, Train R2: 0.0185, Val R2: 0.0006
+2024-10-08 16:04:54,541 - INFO - Best val R² improved from 0.0011 to 0.0029
+2024-10-08 16:04:55,246 - INFO - Best val R² improved from 0.0029 to 0.0041
+2024-10-08 16:04:56,651 - INFO - Best val R² improved from 0.0041 to 0.0041
+2024-10-08 16:04:57,340 - INFO - Best val R² improved from 0.0041 to 0.0042
+2024-10-08 16:04:58,155 - INFO - Best val R² improved from 0.0042 to 0.0046
+2024-10-08 16:04:58,843 - INFO - Best val R² improved from 0.0046 to 0.0064
+2024-10-08 16:04:59,559 - INFO - Epoch 21, Train Loss: 0.9393, Val Loss: 1.1004, Train R2: 0.0338, Val R2: 0.0068
+2024-10-08 16:04:59,559 - INFO - Best val R² improved from 0.0064 to 0.0068
+2024-10-08 16:05:00,507 - INFO - Best val R² improved from 0.0068 to 0.0085
+2024-10-08 16:05:01,434 - INFO - Best val R² improved from 0.0085 to 0.0092
+2024-10-08 16:05:03,842 - INFO - Best val R² improved from 0.0092 to 0.0099
+2024-10-08 16:05:04,504 - INFO - Best val R² improved from 0.0099 to 0.0107
+2024-10-08 16:05:05,315 - INFO - Best val R² improved from 0.0107 to 0.0127
+2024-10-08 16:05:06,998 - INFO - Best val R² improved from 0.0127 to 0.0129
+2024-10-08 16:05:07,954 - INFO - Epoch 31, Train Loss: 0.9289, Val Loss: 1.0930, Train R2: 0.0442, Val R2: 0.0135
+2024-10-08 16:05:07,954 - INFO - Best val R² improved from 0.0129 to 0.0135
+2024-10-08 16:05:09,165 - INFO - Best val R² improved from 0.0135 to 0.0140
+2024-10-08 16:05:09,983 - INFO - Best val R² improved from 0.0140 to 0.0143
+2024-10-08 16:05:11,632 - INFO - Best val R² improved from 0.0143 to 0.0146
+2024-10-08 16:05:12,537 - INFO - Best val R² improved from 0.0146 to 0.0154
+2024-10-08 16:05:13,422 - INFO - Best val R² improved from 0.0154 to 0.0158
+2024-10-08 16:05:14,467 - INFO - Best val R² improved from 0.0158 to 0.0161
+2024-10-08 16:05:15,357 - INFO - Best val R² improved from 0.0161 to 0.0172
+2024-10-08 16:05:16,058 - INFO - Epoch 41, Train Loss: 0.9262, Val Loss: 1.0885, Train R2: 0.0474, Val R2: 0.0176
+2024-10-08 16:05:16,058 - INFO - Best val R² improved from 0.0172 to 0.0176
+2024-10-08 16:05:16,746 - INFO - Best val R² improved from 0.0176 to 0.0178
+2024-10-08 16:05:18,258 - INFO - Best val R² improved from 0.0178 to 0.0186
+2024-10-08 16:05:18,938 - INFO - Best val R² improved from 0.0186 to 0.0190
+2024-10-08 16:05:19,577 - INFO - Best val R² improved from 0.0190 to 0.0193
+2024-10-08 16:05:20,239 - INFO - Best val R² improved from 0.0193 to 0.0195
+2024-10-08 16:05:21,099 - INFO - Best val R² improved from 0.0195 to 0.0200
+2024-10-08 16:05:21,892 - INFO - Best val R² improved from 0.0200 to 0.0203
+2024-10-08 16:05:22,609 - INFO - Best val R² improved from 0.0203 to 0.0209
+2024-10-08 16:05:23,359 - INFO - Epoch 51, Train Loss: 0.9141, Val Loss: 1.0847, Train R2: 0.0590, Val R2: 0.0210
+2024-10-08 16:05:23,359 - INFO - Best val R² improved from 0.0209 to 0.0210
+2024-10-08 16:05:24,099 - INFO - Best val R² improved from 0.0210 to 0.0212
+2024-10-08 16:05:24,959 - INFO - Best val R² improved from 0.0212 to 0.0212
+2024-10-08 16:05:25,717 - INFO - Best val R² improved from 0.0212 to 0.0218
+2024-10-08 16:05:26,480 - INFO - Best val R² improved from 0.0218 to 0.0229
+2024-10-08 16:05:27,282 - INFO - Best val R² improved from 0.0229 to 0.0231
+2024-10-08 16:05:28,038 - INFO - Best val R² improved from 0.0231 to 0.0234
+2024-10-08 16:05:31,104 - INFO - Epoch 61, Train Loss: 0.9035, Val Loss: 1.0824, Train R2: 0.0713, Val R2: 0.0231
+2024-10-08 16:05:32,632 - INFO - Best val R² improved from 0.0234 to 0.0235
+2024-10-08 16:05:33,395 - INFO - Best val R² improved from 0.0235 to 0.0239
+2024-10-08 16:05:34,154 - INFO - Best val R² improved from 0.0239 to 0.0239
+2024-10-08 16:05:34,923 - INFO - Best val R² improved from 0.0239 to 0.0243
+2024-10-08 16:05:35,684 - INFO - Best val R² improved from 0.0243 to 0.0247
+2024-10-08 16:05:38,902 - INFO - Epoch 71, Train Loss: 0.8901, Val Loss: 1.0815, Train R2: 0.0842, Val R2: 0.0239
+2024-10-08 16:05:39,754 - INFO - Best val R² improved from 0.0247 to 0.0253
+2024-10-08 16:05:40,598 - INFO - Best val R² improved from 0.0253 to 0.0257
+2024-10-08 16:05:41,452 - INFO - Best val R² improved from 0.0257 to 0.0260
+2024-10-08 16:05:45,752 - INFO - Best val R² improved from 0.0260 to 0.0261
+2024-10-08 16:05:47,501 - INFO - Epoch 81, Train Loss: 0.8840, Val Loss: 1.0789, Train R2: 0.0904, Val R2: 0.0263
+2024-10-08 16:05:47,501 - INFO - Best val R² improved from 0.0261 to 0.0263
+2024-10-08 16:05:49,242 - INFO - Best val R² improved from 0.0263 to 0.0272
+2024-10-08 16:05:52,707 - INFO - Best val R² improved from 0.0272 to 0.0276
+2024-10-08 16:05:54,444 - INFO - Best val R² improved from 0.0276 to 0.0279
+2024-10-08 16:05:55,309 - INFO - Best val R² improved from 0.0279 to 0.0282
+2024-10-08 16:05:56,177 - INFO - Epoch 91, Train Loss: 0.8766, Val Loss: 1.0775, Train R2: 0.0989, Val R2: 0.0276
+2024-10-08 16:06:04,761 - INFO - Epoch 101, Train Loss: 0.8635, Val Loss: 1.0772, Train R2: 0.1121, Val R2: 0.0279
+2024-10-08 16:06:10,344 - INFO - Epoch 111, Train Loss: 0.8576, Val Loss: 1.0776, Train R2: 0.1184, Val R2: 0.0275
+2024-10-08 16:06:12,265 - INFO - Early stopping at epoch 115 after 25 epochs with no improvement in val R².
+2024-10-08 16:06:12,265 - INFO - Performing gradient-based feature importance analysis for Outer Fold 1
+2024-10-08 16:06:12,313 - INFO - Gradient-based feature importance analysis completed for Outer Fold 1
+2024-10-08 16:06:12,313 - INFO - Outer Fold 1 Results on Test Set:
+2024-10-08 16:06:12,313 - INFO - Hyperparameters: 1.2e-05
+2024-10-08 16:06:12,313 - INFO - Best Epoch: 90
+2024-10-08 16:06:12,313 - INFO - Train R²: 0.0993, Train Corr: 0.3270
+2024-10-08 16:06:12,313 - INFO - Test R²: 0.0282, Test Corr: 0.1798
+2024-10-08 16:06:12,313 - INFO - --------------------------------------------------------
+2024-10-08 16:06:12,329 - INFO - Inner fold results saved to neural_net_nested_cv_results_Gradient_DTI_c0b/DTI_c0b_FTPC_outerfold1_inner_results.csv
+2024-10-08 16:06:12,332 - INFO - Outer cross-validation results saved to neural_net_nested_cv_results_Gradient_DTI_c0b/DTI_c0b_FTPC_outerfold1_outer_cv_results.csv
+2024-10-08 16:06:12,339 - INFO - Feature importance saved to neural_net_nested_cv_results_Gradient_DTI_c0b/DTI_c0b_FTPC_outerfold1_feature_importance.csv
